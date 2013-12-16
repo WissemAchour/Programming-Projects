@@ -1,0 +1,9 @@
+C:\Users\Wissem\documents\visual studio 2010\Projects\email_sender\email_sender\bin\Debug\email_sender.exe
+C:\Users\Wissem\documents\visual studio 2010\Projects\email_sender\email_sender\bin\Debug\email_sender.pdb
+C:\Users\Wissem\documents\visual studio 2010\Projects\email_sender\email_sender\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Wissem\documents\visual studio 2010\Projects\email_sender\email_sender\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Wissem\documents\visual studio 2010\Projects\email_sender\email_sender\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Wissem\documents\visual studio 2010\Projects\email_sender\email_sender\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Wissem\documents\visual studio 2010\Projects\email_sender\email_sender\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Wissem\documents\visual studio 2010\Projects\email_sender\email_sender\obj\x86\Debug\email_sender.exe
+C:\Users\Wissem\documents\visual studio 2010\Projects\email_sender\email_sender\obj\x86\Debug\email_sender.pdb

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.tp33"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-permission android:name="android.permission.SEND_SMS" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="8" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.example.tp33.Gestion"
+            android:label="@string/app_name" >
+              <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.tp33.AddContact"
+            android:label="@string/title_activity_add_contact" >
+        </activity>
+        <activity
+            android:name="com.example.tp33.DeleteContact"
+            android:label="@string/title_activity_delete_contact" >
+        </activity>
+        <activity
+            android:name="com.example.tp33.UpdateContact"
+            android:label="@string/title_activity_update_contact" >
+        </activity>
+        <activity
+            android:name="com.example.tp33.OngletAppels"
+            android:label="@string/title_activity_onglet_appels" >
+        </activity>
+        <activity
+            android:name="com.example.tp33.SendSMS"
+            android:label="@string/title_activity_send_sms" >
+        </activity>
+        <activity
+            android:name="com.example.tp33.ConfirmSMS"
+            android:label="@string/title_activity_confirm_sms" >
+        </activity>
+        <activity
+            android:name="com.example.tp33.IntensImp"
+            android:label="@string/title_activity_intens_imp" >
+          
+        </activity>
+        <activity
+            android:name="com.example.tp33.ConfirmDelete"
+            android:label="@string/title_activity_confirm_delete" >
+        </activity>
+    </application>
+
+</manifest>

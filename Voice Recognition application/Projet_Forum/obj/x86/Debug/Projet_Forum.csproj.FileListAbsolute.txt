@@ -1,0 +1,14 @@
+C:\Users\Wissem\documents\visual studio 2010\Projects\Projet_Forum\Projet_Forum\bin\Debug\Projet_Forum.exe
+C:\Users\Wissem\documents\visual studio 2010\Projects\Projet_Forum\Projet_Forum\bin\Debug\Projet_Forum.pdb
+C:\Users\Wissem\documents\visual studio 2010\Projects\Projet_Forum\Projet_Forum\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Wissem\documents\visual studio 2010\Projects\Projet_Forum\Projet_Forum\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Wissem\documents\visual studio 2010\Projects\Projet_Forum\Projet_Forum\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Wissem\documents\visual studio 2010\Projects\Projet_Forum\Projet_Forum\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Wissem\documents\visual studio 2010\Projects\Projet_Forum\Projet_Forum\obj\x86\Debug\Projet_Forum.exe
+C:\Users\Wissem\documents\visual studio 2010\Projects\Projet_Forum\Projet_Forum\obj\x86\Debug\Projet_Forum.pdb
+C:\Users\Wissem\Documents\Visual Studio 2010\Projects\Projet_Forum\Projet_Forum\obj\x86\Debug\WindowsFormsApplication1.Eniso.resources
+C:\Users\Wissem\Documents\Visual Studio 2010\Projects\Projet_Forum\Projet_Forum\obj\x86\Debug\WindowsFormsApplication1.Main.resources
+C:\Users\Wissem\Documents\Visual Studio 2010\Projects\Projet_Forum\Projet_Forum\obj\x86\Debug\WindowsFormsApplication1.Meca.resources
+C:\Users\Wissem\Documents\Visual Studio 2010\Projects\Projet_Forum\Projet_Forum\obj\x86\Debug\WindowsFormsApplication1.Car.resources
+C:\Users\Wissem\Documents\Visual Studio 2010\Projects\Projet_Forum\Projet_Forum\obj\x86\Debug\WindowsFormsApplication1.teach.resources
+C:\Users\Wissem\documents\visual studio 2010\Projects\Projet_Forum\Projet_Forum\obj\x86\Debug\WindowsFormsApplication1.Test.resources

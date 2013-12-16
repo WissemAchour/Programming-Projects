@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/item1" 
+        android:title="Contacts"
+        android:icon="@drawable/contact"
+        
+        >
+        <menu >
+            <item android:id="@+id/ajout" android:title="Ajouter Contacts"/>
+            <item android:id="@+id/supp" android:title="Supprimer Contact"/>
+            <item android:id="@+id/modif" android:title="Modifier Contact"/>
+        </menu>
+       
+    </item>
+    <item android:id="@+id/item2" 
+        android:icon="@drawable/phone"
+        android:title="Appels"
+        >
+       
+    </item>
+
+   
+    
+   
+
+</menu>

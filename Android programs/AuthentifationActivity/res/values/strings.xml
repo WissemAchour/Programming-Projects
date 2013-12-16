@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AuthentifationActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="sign">Sign In</string>
+    <string name="update">Update Date and Time</string>
+    <string name="date">Unknow Date</string>
+    <string name="hintLogin">Enter you login</string>
+    <string name="hintPassword">Enter your password</string>
+    <string name="title_activity_compute">ComputeActivity</string>
+    <string name="question">What type of calculation you want to perform?</string>
+    <string name="radio1">Prime Numbers</string>
+    <string name="radio2">GoldBach Conjecture</string>
+    <string name="calculate">Calculate</string>
+    <string name="min">Min Value</string>
+    <string name="max">Max Value</string>
+    <string name="even">Even Number</string>
+
+</resources>

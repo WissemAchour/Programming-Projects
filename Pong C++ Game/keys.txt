@@ -1,0 +1,32 @@
+http://www.siteduzero.com/uploads/fr/ftp/mateo21/sdlkeysym.html
+http://www.videogamesprites.net/ images
+http://www.nes-snes-sprites.com/DragonBallZHyperDimensionGoku.html
+
+
+SDL_BUTTON_LEFT : clic avec le bouton gauche de la souris.
+SDL_BUTTON_MIDDLE : clic avec le bouton du milieu de la souris (tout le monde n'en a pas forcément un).
+SDL_BUTTON_RIGHT : clic avec le bouton droit de la souris.
+SDL_BUTTON_WHEELUP : molette de la souris vers le haut.
+SDL_BUTTON_WHEELDOWN : molette de la souris vers le bas.
+event.button.x
+event.button.y//pour le deplacement de la cadre
+event.motion.x
+event.motion.y//avec le deplacement de la souris
+
+SDL_ShowCursor(a ou b)
+
+a-SDL_DISABLE : masque le curseur de la souris
+b-SDL_ENABLE : réaffiche le curseur de la souris
+
+SDL_WarpMouse(ecran->w / 2, ecran->h / 2);
+
+
+SDL_MOUSEBUTTONDOWN : lorsqu'on clique avec la souris. Cela correspond
+au moment où le bouton de la souris est enfoncé.
+
+SDL_MOUSEBUTTONUP : lorsqu'on relâche le bouton de la souris. Tout cela
+fonctionne exactement sur le même principe que les touches du clavier : il y a
+d'abord un appui, puis un relâchement du bouton.
+
+SDL_MOUSEMOTION : lorsqu'on déplace la souris. A chaque fois que la souris bouge dans la fenêtre (ne serait-ce
+que d'un pixel !) un évènement SDL_MOUSEMOTION est généré !
